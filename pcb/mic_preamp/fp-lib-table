@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "PT01-D130D-A102")(type "KiCad")(uri "${KIPRJMOD}/../lib/PT01-D130D-A102")(options "")(descr ""))
+  (lib (name "msc-logos")(type "KiCad")(uri "${KICAD_PRJ_LIB}/msc-logos")(options "")(descr ""))
 )
