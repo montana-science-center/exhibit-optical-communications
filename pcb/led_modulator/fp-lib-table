@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "93PR20LF")(type "KiCad")(uri "${KICAD_PRJ_LIB}/93PR20LF")(options "")(descr ""))
+  (lib (name "msc-logos")(type "KiCad")(uri "${KICAD_PRJ_LIB}/msc-logos")(options "")(descr ""))
+  (lib (name "LTC6992IDCB-1-TRMPBF")(type "KiCad")(uri "${KICAD_PRJ_LIB}/LTC6992IDCB-1-TRMPBF")(options "")(descr ""))
+  (lib (name "misc-silkscreen")(type "KiCad")(uri "${KICAD_PRJ_LIB}/misc-silkscreen")(options "")(descr ""))
+)

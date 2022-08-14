@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LTC6992IDCB-1-TRMPBF")(type "KiCad")(uri "${KICAD_PRJ_LIB}/LTC6992IDCB-1-TRMPBF/LTC6992IDCB-1-TRMPBF.kicad_sym")(options "")(descr ""))
+)
