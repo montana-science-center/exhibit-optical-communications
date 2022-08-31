@@ -7,8 +7,8 @@
   (paper "USLetter")
   (title_block
     (title "mic preamp")
-    (date "2022-07-14")
-    (rev "1")
+    (date "2022-08-31")
+    (rev "2")
     (company "Montana Science Center")
   )
 
@@ -3956,7 +3956,7 @@
   (gr_text "line out" (at 168.525 90.85) (layer "F.SilkS") (tstamp 8efdb5c2-39c5-41a6-bdb9-5f59d0331c88)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
-  (gr_text "mic \npreamp v1" (at 127.8 84.975) (layer "F.SilkS") (tstamp 904dc3b6-eb51-49ea-94c7-979dd208ee3a)
+  (gr_text "mic \npreamp v2" (at 127.8 84.975) (layer "F.SilkS") (tstamp 904dc3b6-eb51-49ea-94c7-979dd208ee3a)
     (effects (font (size 1.5 1.5) (thickness 0.25)))
   )
   (gr_text "-5V" (at 147 108) (layer "F.SilkS") (tstamp ac393680-d5a1-4277-98ee-5898499a4c8e)
